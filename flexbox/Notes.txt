@@ -1,0 +1,39 @@
+----------
+ FLEXBOX 
+----------
+
+https://www.youtube.com/watch?v=JJSoEo8JSnc
+
+****************
+WHAT IS FLEXBOX?
+****************
+- No floats
+- Responsive and mobile friendly
+- Positioning child elements is easier
+- Flex container's margins do not collapse with the margins of its contents
+- Order of elements can easily be changed without editing source HTML
+- Ability to alter item width and height to best fit in its containers available free space
+- Flexbox is direction-agnostic
+
+
+***************
+FLEX PROPERTIES
+***************
+- display:
+- flex-direction:
+- flex-wrap:
+- flex-basis:
+- justify-content:
+- align-self:
+- align-items:
+- align-content:
+- flex-grow:
+- flex-shrink:
+- flex:
+- order:
+
+
+* DIFFERENCE BETWEEN MIN-WIDTH & MAX-WIDTH *
+With min-width, styles START and continue forever as long as min-width is met, and no max-width is specified. 
+Max-width is the maximum width at which a style will continue to be applied.
+After that, the style will STOP being applied.
